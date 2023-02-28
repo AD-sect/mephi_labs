@@ -1,0 +1,3 @@
+/Users/ruadmar/CLionProjects/mephi_labs/cmake-build-debug/CMakeFiles/mephi_labs.dir
+/Users/ruadmar/CLionProjects/mephi_labs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ruadmar/CLionProjects/mephi_labs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
